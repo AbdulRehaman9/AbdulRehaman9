@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdulRehaman9
 - 👀 I’m interested in software making
-- Im looking forward to work in DevOps 
+- Im looking forward to work in aws and DevOps 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on project based on python
 - 📫 How to reach me abdulrahaman7411@gmail.com
